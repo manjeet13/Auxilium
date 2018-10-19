@@ -27,7 +27,7 @@ package com.example.tarun.auxilium;
 
 public class MapsActivity extends FragmentActivity implements LocationListener {
 
-    private static final String GOOGLE_API_KEY = "AIzaSyDzUw-9C3Gc4jNueXa-V5BAh0mtvDTlXKI";
+    private static final String GOOGLE_API_KEY = "XXXXXXXXXXXXmy-api-keyXXXXXXXXXXXXX";
     GoogleMap googleMap;
     EditText placeText;
     double latitude = 0;
